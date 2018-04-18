@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+opencv/*
+!opencv/java/
+opencv/java/*
+!opencv/java/src/
+opencv/java/src/org/opencv/*
+!opencv/java/src/org/opencv/android/
+opencv/java/src/org/opencv/android/*
+!opencv/java/src/org/opencv/android/JavaCamera2View.java
